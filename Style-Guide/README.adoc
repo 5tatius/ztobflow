@@ -1,0 +1,53 @@
+= Style Guide
+
+This is a general style guide for the Solar Car Team, individual projects can deviate from this style guide but this is for general practice. Anything not listed here is dependent on the project.
+
+=== Indentation
+Indents should be spaces not tabs, 4 spaces wide.
+
+=== Naming
+Avoid abbreviations.
+
+===== Bad Example
+	UofC
+
+===== Good Example
+	UniversityOfCalgary
+
+=== Function Names
+Function names should be lower camel case.
+
+===== Example
+	thisFunctionName()
+
+=== Variable Names
+Variable names should be lower camel case as well.
+
+===== Example
+	aGoodVariable
+
+=== Constant Names
+Constants should be all caps separated by underscores.
+
+===== Example
+	A_CONSTANT_VARIABLE
+
+=== Class Names
+Class name should be upper camel case.
+
+===== Example
+	GoodClassName
+
+=== Member Variable Names
+Member variables should have a leading 'm'.
+
+===== Example
+	m_ThisMemberVariable
+
+=== Braces
+Opening braces should be on the next line.
+
+===== Example
+	else
+	{
+	}
